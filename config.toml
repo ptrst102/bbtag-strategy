@@ -1,0 +1,19 @@
+baseURL = ""
+languageCode = "ja"
+title = "BBTAG虎の巻"
+theme = "learn"
+relativeURLs = true
+
+[params]
+  author = "ptrst102"
+  disableLandingPageButton = true
+  disableBreadcrumb = true
+  disableNextPrev = true
+  titleSeparator = "|"
+  themeVariant = "green"
+
+[markup]
+  [markup.goldmark]
+
+[markup.goldmark.renderer]
+  hardWraps = true
