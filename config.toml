@@ -6,8 +6,8 @@ relativeURLs = true
 
 [params]
   author = "ptrst102"
-  disableLandingPageButton = true
-  disableBreadcrumb = true
+  disableLandingPageButton = false
+  disableBreadcrumb = false
   disableNextPrev = true
   titleSeparator = "|"
   themeVariant = "green"
