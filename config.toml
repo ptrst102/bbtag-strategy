@@ -6,6 +6,7 @@ relativeURLs = true
 
 [params]
   author = "ptrst102"
+  disableSearch = true
   disableLandingPageButton = false
   disableBreadcrumb = false
   disableNextPrev = true
